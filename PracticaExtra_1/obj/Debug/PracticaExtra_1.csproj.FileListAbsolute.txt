@@ -1,0 +1,18 @@
+c:\users\raffa\documents\visual studio 2015\Projects\PracticaExtra_1\PracticaExtra_1\bin\Debug\PracticaExtra_1.exe.config
+c:\users\raffa\documents\visual studio 2015\Projects\PracticaExtra_1\PracticaExtra_1\bin\Debug\PracticaExtra_1.exe
+c:\users\raffa\documents\visual studio 2015\Projects\PracticaExtra_1\PracticaExtra_1\bin\Debug\PracticaExtra_1.pdb
+c:\users\raffa\documents\visual studio 2015\Projects\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.csprojResolveAssemblyReference.cache
+c:\users\raffa\documents\visual studio 2015\Projects\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.Form1.resources
+c:\users\raffa\documents\visual studio 2015\Projects\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.Properties.Resources.resources
+c:\users\raffa\documents\visual studio 2015\Projects\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.csproj.GenerateResource.Cache
+c:\users\raffa\documents\visual studio 2015\Projects\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.exe
+c:\users\raffa\documents\visual studio 2015\Projects\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.pdb
+C:\Users\Raffa\Desktop\FACULTAD\SEMESTRE 4\Orientada a Objetos\Practicas Objetos\PracticaExtra_1\PracticaExtra_1\bin\Debug\PracticaExtra_1.exe.config
+C:\Users\Raffa\Desktop\FACULTAD\SEMESTRE 4\Orientada a Objetos\Practicas Objetos\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.exe
+C:\Users\Raffa\Desktop\FACULTAD\SEMESTRE 4\Orientada a Objetos\Practicas Objetos\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.pdb
+C:\Users\Raffa\Desktop\FACULTAD\SEMESTRE 4\Orientada a Objetos\Practicas Objetos\PracticaExtra_1\PracticaExtra_1\bin\Debug\PracticaExtra_1.exe
+C:\Users\Raffa\Desktop\FACULTAD\SEMESTRE 4\Orientada a Objetos\Practicas Objetos\PracticaExtra_1\PracticaExtra_1\bin\Debug\PracticaExtra_1.pdb
+C:\Users\Raffa\Desktop\FACULTAD\SEMESTRE 4\Orientada a Objetos\Practicas Objetos\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.csprojResolveAssemblyReference.cache
+C:\Users\Raffa\Desktop\FACULTAD\SEMESTRE 4\Orientada a Objetos\Practicas Objetos\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.Form1.resources
+C:\Users\Raffa\Desktop\FACULTAD\SEMESTRE 4\Orientada a Objetos\Practicas Objetos\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.Properties.Resources.resources
+C:\Users\Raffa\Desktop\FACULTAD\SEMESTRE 4\Orientada a Objetos\Practicas Objetos\PracticaExtra_1\PracticaExtra_1\obj\Debug\PracticaExtra_1.csproj.GenerateResource.Cache
